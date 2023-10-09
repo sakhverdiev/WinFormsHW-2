@@ -1,0 +1,10 @@
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\bin\Debug\WinFormsHW-2.exe.config
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\bin\Debug\WinFormsHW-2.exe
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\bin\Debug\WinFormsHW-2.pdb
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\obj\Debug\Calculator-WF.csproj.AssemblyReference.cache
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\obj\Debug\WinFormsHW_2.Form1.resources
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\obj\Debug\WinFormsHW_2.Properties.Resources.resources
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\obj\Debug\Calculator-WF.csproj.GenerateResource.cache
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\obj\Debug\Calculator-WF.csproj.CoreCompileInputs.cache
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\obj\Debug\WinFormsHW-2.exe
+C:\Users\Senan\source\repos\WinFormsHW-2\WinFormsHW-2\obj\Debug\WinFormsHW-2.pdb
